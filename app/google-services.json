@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "248585255156",
+    "project_id": "resume-afrk",
+    "storage_bucket": "resume-afrk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248585255156:android:156523e881cc0973cbc6a1",
+        "android_client_info": {
+          "package_name": "com.example.Resume"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248585255156-734kcgf4qn9fhvbjibg6v1hf4ga5ibg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFSPKnHSzwhaEIZE8pJ1u1_HbjddYHPCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248585255156-734kcgf4qn9fhvbjibg6v1hf4ga5ibg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

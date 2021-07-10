@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Nav1"
+        android:title="Show All SQLite" />
+    <item
+        android:id="@+id/Nav2"
+        android:title="Add Student" />
+    <item
+        android:id="@+id/Nav3"
+        android:title="Find" />
+</menu>
