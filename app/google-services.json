@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "248585255156",
-    "project_id": "resume-afrk",
-    "storage_bucket": "resume-afrk.appspot.com"
+    "project_number": "142301506154",
+    "project_id": "resume-5abec",
+    "storage_bucket": "resume-5abec.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:248585255156:android:156523e881cc0973cbc6a1",
+        "mobilesdk_app_id": "1:142301506154:android:1f0b61d3ba121792d47813",
         "android_client_info": {
           "package_name": "com.example.Resume"
         }
       },
       "oauth_client": [
         {
-          "client_id": "248585255156-734kcgf4qn9fhvbjibg6v1hf4ga5ibg7.apps.googleusercontent.com",
+          "client_id": "142301506154-283uud1mpfobbob55qf2dvsqrsee2ekb.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAFSPKnHSzwhaEIZE8pJ1u1_HbjddYHPCw"
+          "current_key": "AIzaSyBLcLSEF4tJ0O6mg-Q1SL3qa4MpsfTS4kw"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "248585255156-734kcgf4qn9fhvbjibg6v1hf4ga5ibg7.apps.googleusercontent.com",
+              "client_id": "142301506154-283uud1mpfobbob55qf2dvsqrsee2ekb.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

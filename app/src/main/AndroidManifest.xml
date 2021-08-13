@@ -11,9 +11,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Myself">
-        <activity android:name="com.example.Resume.AddResumeNext"></activity>
-        <activity android:name="com.example.Resume.ShowResume" />
-        <activity android:name="com.example.Resume.AddResume">
+        <activity android:name=".UpdateResume"></activity>
+        <activity android:name=".ShowAll" />
+        <activity android:name=".ShowResume" />
+        <activity android:name=".AddResumeNext" />
+        <activity android:name=".AddResume" />
+        <activity android:name=".Find">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
